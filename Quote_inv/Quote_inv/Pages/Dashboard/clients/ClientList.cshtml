@@ -1,0 +1,88 @@
+﻿@page
+@model Quote_inv.Pages.Dashboard.clients.ClientListModel
+@{
+}
+
+<style>
+    /* Custom styles matching your color scheme */
+    .btn-primary {
+        background-color: #556b2f;
+        border-color: #556b2f;
+        margin-top: 10px;
+    }
+
+        .btn-primary:hover {
+            background-color: #6b8e23;
+            border-color: #6b8e23;
+          
+        }
+
+    .btn-danger {
+        background-color: #8b0000;
+        border-color: #8b0000;
+        margin-top: 10px;
+    }
+
+        .btn-danger:hover {
+            background-color: #a52a2a;
+            border-color: #a52a2a;
+        }
+
+    h2 {
+        color: #556b2f;
+    }
+
+    /* Table styling */
+    .table {
+        border-color: #c1d8ac;
+    }
+
+        .table thead th {
+            background-color: white; /* Changed to white */
+            color: #556b2f; /* Changed to olive green text */
+            border-color: #c1d8ac;
+            font-weight: bold; /* Added for better readability */
+        }
+
+        .table tbody tr:nth-child(even) {
+            background-color: rgba(193, 216, 172, 0.2);
+        }
+
+        .table tbody tr:hover {
+            background-color: rgba(193, 216, 172, 0.3);
+        }
+</style>
+
+<br>
+<h2>List of Clients</h2>
+
+<a class='btn btn-primary btn-sm' href='Pages/Dashboard/clients/Create'>New Client</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Created At</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listClients)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.name</td>
+                <td>@item.email</td>
+                <td>@item.phone</td>
+                <td>@item.created_at</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Dashboard/clients/Edit?id=@item.id">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Dashboard/clients/Delete?id=@item.id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

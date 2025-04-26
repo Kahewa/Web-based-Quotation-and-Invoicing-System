@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Quote_inv.props" />
+</Project>
