@@ -1,110 +1,132 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\",
+  "WorkspaceRootPath": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p.shuuya\\AppData\\Local\\Temp\\kmyofhxx..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\migrations\\qandicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\migrations\\qandicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_AEIFS8F3_SQLEXPRESS/qandi/True/SqlTable/dbo.clients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\migrations\\20250426093815_addidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\migrations\\20250426093815_addidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\serviceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\quotations\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\quotations\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\quotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\areas\\identity\\data\\qandicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\clientlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\migrations\\qandicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\migrations\\qandicontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\migrations\\20250426093815_addidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\migrations\\20250426093815_addidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\areas\\identity\\data\\qandicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\areas\\identity\\data\\qandicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\quote_inv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\quote_inv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\quote_inv.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\dashboard\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\dashboard\\clients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quote_inv\\Migrations\\20250426093815_AddIdentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\quote_inv\\quote_inv\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|c:\\users\\p.shuuya\\source\\repos\\kahewa\\web-based-quotation-and-invoicing-system\\quote_inv\\quote_inv\\migrations\\20250426093815_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EEC8509-D00F-4925-8ACF-AB14242681BC}|Quote_inv\\Quote_inv.csproj|solutionrelative:quote_inv\\migrations\\20250426093815_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +136,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -123,10 +145,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Bookmark",
@@ -153,342 +171,390 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAACYBAAAAAAAAAAAAADMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T09:31:57.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Quote_inv\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T09:47:40.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAD8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T10:27:29.461Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFcAAAAfAAAAAAAAAA==",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:27:36.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T11:30:56.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClientList.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml",
               "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml",
               "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-26T09:48:08.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T11:53:35.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\Index.cshtml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:30:56.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Quotation.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\Quotation.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Models\\Quotation.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\Quotation.cs",
-              "RelativeToolTip": "Quote_inv\\Models\\Quotation.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwBEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:39:22.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Quote_inv\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T09:33:08.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceItem.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\ServiceItem.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Models\\ServiceItem.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\ServiceItem.cs",
-              "RelativeToolTip": "Quote_inv\\Models\\ServiceItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:40:09.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAUwGkAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:54:21.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T09:47:06.124Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\Client.cs",
-              "RelativeToolTip": "Quote_inv\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Quotations\\Class.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\Quotations\\Class.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Quotations\\Class.cs",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\Quotations\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:38:39.786Z",
+              "WhenOpened": "2025-05-10T19:38:04.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T10:27:29.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:27:36.349Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductItem.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\ProductItem.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Models\\ProductItem.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Models\\ProductItem.cs",
-              "RelativeToolTip": "Quote_inv\\Models\\ProductItem.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:40:48.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:26:27.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T11:54:11.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClientList.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Title": "Quotation.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\Quotation.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Models\\Quotation.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\Quotation.cs",
+              "RelativeToolTip": "Quote_inv\\Models\\Quotation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:03:17.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Program.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Program.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Program.cs",
-              "RelativeToolTip": "Quote_inv\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T09:22:44.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "create.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T09:47:06.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:39:22.844Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\create.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\ProductItem.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Models\\ProductItem.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\ProductItem.cs",
+              "RelativeToolTip": "Quote_inv\\Models\\ProductItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:26:27.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:40:48.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAowPUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:31:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.clients.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_AEIFS8F3_SQLEXPRESS/qandi/True/SqlTable/dbo.clients.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_AEIFS8F3_SQLEXPRESS/qandi/True/SqlTable/dbo.clients.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-10T19:46:32.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "kmyofhxx..sql",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\AppData\\Local\\Temp\\kmyofhxx..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\kmyofhxx..sql",
+              "ToolTip": "C:\\Users\\p.shuuya\\AppData\\Local\\Temp\\kmyofhxx..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\kmyofhxx..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-10T20:41:46.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\Client.cs",
+              "RelativeToolTip": "Quote_inv\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:38:39.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T11:53:35.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T18:20:10.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceItem.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\ServiceItem.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Models\\ServiceItem.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Models\\ServiceItem.cs",
+              "RelativeToolTip": "Quote_inv\\Models\\ServiceItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:40:09.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T18:20:13.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T11:54:11.958Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "qandiContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
-              "RelativeToolTip": "Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
-              "ViewState": "AgIAAO4AAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:39:08.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250426093815_AddIdentity.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
-              "RelativeToolTip": "Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T11:32:02.604Z",
-              "EditorCaption": ""
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T18:19:57.884Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\appsettings.json",
               "RelativeDocumentMoniker": "Quote_inv\\appsettings.json",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\appsettings.json",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\appsettings.json",
               "RelativeToolTip": "Quote_inv\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-26T10:51:17.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T10:51:17.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Quote_inv\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T09:33:08.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "qandiContext.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
-              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T10:41:08.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
-              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
-              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Quote_inv\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T10:26:45.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T09:47:40.788Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "Quote_inv",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
-              "RelativeDocumentMoniker": "Quote_inv\\Quote_inv.csproj",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
-              "RelativeToolTip": "Quote_inv\\Quote_inv.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T09:14:08.202Z",
-              "EditorCaption": ""
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAUwGkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:54:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\ClientList.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:03:17.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "20250426093815_AddIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
-              "RelativeDocumentMoniker": "Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
-              "RelativeToolTip": "Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Program.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Program.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Program.cs",
+              "RelativeToolTip": "Quote_inv\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T09:38:15.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T09:22:44.043Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "qandiContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
+              "RelativeToolTip": "Quote_inv\\Migrations\\qandiContextModelSnapshot.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:39:08.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250426093815_AddIdentity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
+              "RelativeToolTip": "Quote_inv\\Migrations\\20250426093815_AddIdentity.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T11:32:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "qandiContext.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
+              "RelativeToolTip": "Quote_inv\\Areas\\Identity\\Data\\qandiContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:41:08.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
+              "RelativeDocumentMoniker": "Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
+              "RelativeToolTip": "Quote_inv\\Pages\\Dashboard\\clients\\delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T10:26:45.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Quote_inv.csproj",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
+              "RelativeDocumentMoniker": "Quote_inv\\Quote_inv.csproj",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
+              "RelativeToolTip": "Quote_inv\\Quote_inv.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T09:14:08.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250426093815_AddIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
+              "RelativeToolTip": "Quote_inv\\Migrations\\20250426093815_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:38:15.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Quote_inv\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "Quote_inv\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-26T09:35:38.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T09:35:38.607Z"
             }
           ]
         },

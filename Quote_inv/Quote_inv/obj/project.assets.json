@@ -8174,11 +8174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
+      "projectUniqueName": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
       "projectName": "Quote_inv",
-      "projectPath": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
+      "projectPath": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
       "packagesPath": "C:\\Users\\p.shuuya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\obj\\",
+      "outputPath": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

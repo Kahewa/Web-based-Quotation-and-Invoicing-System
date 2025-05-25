@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HgYptOw2ek0=",
+  "dgSpecHash": "nTogOa9PBoc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\p.shuuya\\source\\repos\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
+  "projectFilePath": "C:\\Users\\p.shuuya\\source\\repos\\Kahewa\\Web-based-Quotation-and-Invoicing-System\\Quote_inv\\Quote_inv\\Quote_inv.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p.shuuya\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\p.shuuya\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

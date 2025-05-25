@@ -85,7 +85,7 @@ namespace Quote_inv.Pages.Dashboard.clients
                 return;
             }
 
-            Response.Redirect("/clients");
+            Response.Redirect("/Dashboard/clients/ClientList");
         }
     }
 }
